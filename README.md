@@ -14,7 +14,8 @@ anantojha@cmail.carleton.ca
 <br>
 <b>Project Report:</b>
 <br>
-[COMP3106-TermProject.pdf](https://github.com/anantojha/CNN-Smile-Detector/files/8009786/COMP3106-TermProject.pdf)
+<br>
+[COMP3106-TermProject.pdf](https://github.com/anantojha/CNN-Smile-Detector/files/8009812/COMP3106-TermProject.pdf)
 <br>
 <br>
 <b>Project Demo:</b>
