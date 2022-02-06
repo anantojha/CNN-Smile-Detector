@@ -1,7 +1,8 @@
 # CNN-Smile-Detector
 Real-Time Smile Detection using Convolution Neural Networks
 
-COMP 3106 Term Project
+<b>COMP 3106 AI Term Project</b>
+<br>
 Anant Ojha
 <br>
 anantojha@cmail.carleton.ca
